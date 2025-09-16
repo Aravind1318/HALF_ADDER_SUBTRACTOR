@@ -1,5 +1,3 @@
-<img width="1917" height="1107" alt="image" src="https://github.com/user-attachments/assets/59b8f8e1-ffd1-4735-8cd5-fceaab2b778c" /># HALF_ADDER_SUBTRACTOR
-
 Implementation-of-Half-Adder-and-Half Subtractor-circuit
 
 **AIM:**
@@ -33,7 +31,6 @@ Borrow = A’B
 
 Figure -02 HALF Subtractor
 
-**Truthtable**
 
 **Procedure**
 
